@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 import logo from '../../assets/logo.svg';
 import { FiArrowLeft } from 'react-icons/fi';
-
+import { Map, TileLayer, Marker } from 'react-leaflet';
 const CreatePoint = () => {
     return (
         <div id="page-create-point">
@@ -71,27 +71,27 @@ const CreatePoint = () => {
 
                     <ul className="items-grid">
                         <li>
-                            <img src="http://localhost:3333/uploads/oleo.svg" alt="Teste"/>
+                            <img src="http://localhost:3333/uploads/oleo.svg" alt="Teste" />
                             <span>Óleo de Cozinha</span>
                         </li>
                         <li>
-                            <img src="http://localhost:3333/uploads/oleo.svg" alt="Teste"/>
+                            <img src="http://localhost:3333/uploads/oleo.svg" alt="Teste" />
                             <span>Óleo de Cozinha</span>
                         </li>
                         <li>
-                            <img src="http://localhost:3333/uploads/oleo.svg" alt="Teste"/>
+                            <img src="http://localhost:3333/uploads/oleo.svg" alt="Teste" />
                             <span>Óleo de Cozinha</span>
                         </li>
                         <li>
-                            <img src="http://localhost:3333/uploads/oleo.svg" alt="Teste"/>
+                            <img src="http://localhost:3333/uploads/oleo.svg" alt="Teste" />
                             <span>Óleo de Cozinha</span>
                         </li>
                         <li>
-                            <img src="http://localhost:3333/uploads/oleo.svg" alt="Teste"/>
+                            <img src="http://localhost:3333/uploads/oleo.svg" alt="Teste" />
                             <span>Óleo de Cozinha</span>
                         </li>
                         <li>
-                            <img src="http://localhost:3333/uploads/oleo.svg" alt="Teste"/>
+                            <img src="http://localhost:3333/uploads/oleo.svg" alt="Teste" />
                             <span>Óleo de Cozinha</span>
                         </li>
                     </ul>
