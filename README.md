@@ -4,7 +4,7 @@
 
 The mobile part of this application is [here](https://github.com/JavelFreitas/Ecoleta-mobile-nlw-rocketseat)
 
-![View](/images/capa.png)
+<img src='images/capa.png'>
 
 # Tecnologies 
 
@@ -16,7 +16,7 @@ The mobile part of this application is [here](https://github.com/JavelFreitas/Ec
 
 # Current state
 
-![Home Page](/images/Capturar.png)
+<img src='images/Capturar.png'>
 
 # Usage
 
